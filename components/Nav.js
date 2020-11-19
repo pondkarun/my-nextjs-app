@@ -12,6 +12,10 @@ export default function Nav() {
             <Link href="/aboutus">
                <a> AboutUs </a>
             </Link>
+            |
+            <Link href="/movies">
+               <a> Movies </a>
+            </Link>
          </nav>
 
       </>
